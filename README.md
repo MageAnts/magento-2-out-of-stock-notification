@@ -2,10 +2,10 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 Out of Stock Notification Extension</h2>
+				<h1>Magento 2 Out of Stock Notification Extension</h1>
 				<p>With the help of the <strong><a href="https://www.mageants.com/out-of-stock-notification-for-magento-2.html">Magento 2 Out of Stock Notification Extension</a></strong>  the customers can stay updated about the current status of the products available in the store. Not only this, but it also helps in making them know about the new arrivals in the state. It sends out a notification to keep the customers well-informed.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Customers are allowed to subscribe to get out-of-stock notifications via email.</li>
 						<li>Guest visitors can also get the notification to stay informed.</li>
